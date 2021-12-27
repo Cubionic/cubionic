@@ -1,5 +1,5 @@
 🤘 Yo! I’m <i>Cubic Rouch</i> (aka Sanskar Singh) <br>
-➡ I am 13 years old and I know how to code stuff
+➡ I am 13 years old and also a Front-End developer
 <ol>
 <li> Wordpress (100%)</li>
 <li> HTML, CSS & JS (90% I'm tryna understand Javascript better)</li>
