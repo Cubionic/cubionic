@@ -1,10 +1,16 @@
 🤘 Yo! I’m <i>Cubic Rouch</i> (aka Sanskar Singh) <br>
-➡ I am 13 years old and also a Front-End developer
+✨ I am 13 years old and also a Front-End developer <br>
+✨ Hobbies: 🎻Guitar, ⚽Football, 🎤Singing, 🎮Gaming and ♟Chess  
 <ol>
-<li> Wordpress (100%)</li>
-<li> HTML, CSS & JS (90% I'm tryna understand Javascript better)</li>
-<li> Python (70%)</li>
-<li> C# (60%)</li>
+
+<li> Wordpress <br>█ █ █ █ █ █ █ █ █ 100% </li>
+	<p> ════════════════ </p>
+<li> HTML, CSS & JS <br>█ █ █ █ █ █ █ █ ▒ 90% (I'm tryna understand Javascript better)</li>
+  <p> ════════════════ </p>
+<li> Python <br>█ █ █ █ █ █ ▒ ▒ ▒ 70%</li>
+  <p> ════════════════ </p>
+<li> C# (C-Sharp) <br>█ █ █ █ █ ▒ ▒ ▒ ▒ 60%</li><br>
+
 </ol>
 <hr>
 <br>
