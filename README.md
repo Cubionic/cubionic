@@ -7,7 +7,7 @@
 	<p> ════════════════ </p>
 <li> HTML, CSS & JS <br>█ █ █ █ █ █ █ █ ▒ 90% (I'm tryna understand Javascript better)</li>
   <p> ════════════════ </p>
-<li> Python <br>█ █ █ █ █ █ ▒ ▒ ▒ 70%</li>
+<li> Python <br>█ █ █ █ █ ▒ ▒ ▒ ▒ 60%</li>
   <p> ════════════════ </p>
 <li> C# (C-Sharp) <br>█ █ █ █ █ ▒ ▒ ▒ ▒ 60%</li><br>
 
