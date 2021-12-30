@@ -3,7 +3,7 @@
 ✨ Hobbies: 🎻Guitar, ⚽Football, 🎤Singing, 🎮Gaming and ♟Chess  
 <ol>
 
-<li> Wordpress <br>█ █ █ █ █ █ █ █ █ 100% </li>
+<li> Wordpress https://o.remove.bg/downloads/a1bcab2b-7f96-4ab5-8fe3-310b2414951e/IMG_20211230_234442-removebg-preview.png<br>█ █ █ █ █ █ █ █ █ 100% </li>
 	<p> ════════════════ </p>
 <li> HTML, CSS & JS <br>█ █ █ █ █ █ █ █ ▒ 90% (I'm tryna understand Javascript better)</li>
   <p> ════════════════ </p>
