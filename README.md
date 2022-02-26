@@ -1,8 +1,6 @@
 🤘 Yo! I’m <i>Cubic Rouch</i> (aka Sanskar Singh) <br>
 ✨ I am 13 years old and also a Front-End developer <br>
 ✨ Hobbies: 🎻Guitar, ⚽Football, 🎤Singing, 🎮Gaming and ♟Chess  
-<a href="https://www.mediafire.com/folder/01ve89k8pryet/NoRain+v1.2+[1.18]+Cubic"> No Rain </a> <br>
-<a href="https://www.mediafire.com/folder/7ew8hk66s8bz4/NoXray+[1.8-1.18]+Cubic"> No Xray </a>
 <ol>
 
 <li> Wordpress<br>█ █ █ █ █ █ █ █ █ 100% </li>
