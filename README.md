@@ -1,6 +1,6 @@
 🤘 Yo! I’m <i>Cubic Rouch</i> (aka Sanskar Singh) <br>
 ✨ I am 13 years old and also a Front-End developer <br>
-✨ Hobbies: 🎻Guitar, ⚽Football, 🎤Singing, 🎮Gaming and ♟Chess  (you forgot AI!)
+✨ Hobbies: 🎻Guitar, ⚽Football, 🎤Singing, 🎮Gaming and ♟Chess  (you forgot <u> AI </u>!)
 <hr>
 <br>
 <ul> 
