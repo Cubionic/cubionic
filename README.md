@@ -5,5 +5,5 @@
 <br>
 <ul> 
 <li> DM me on Discord if you wanna do project or smth like that</li>
-<li>I am the most active on my Discord (Cubic#7033)</li> 
+<li>I am the most active on my Discord (Fushijo#3179)</li> 
 </ul>
